@@ -1,0 +1,3 @@
+﻿  tast 2.cpp
+D:\OOP\Lab5\tast 2\tast 2\tast 2.cpp(64,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  tast 2.vcxproj -> D:\OOP\Lab5\tast 2\x64\Debug\tast 2.exe
